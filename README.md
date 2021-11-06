@@ -17,9 +17,12 @@ This repo also stems from experiments between Croncat and other DAOs, and the to
 
 ## MultiDAO Use Cases
 
-- Collaboration DAOs - related communities working together for a common purpose, like a partnership, friendly competition, or a coalition of DAOs.
-- Ephemeral DAOs - multiple organizations might create temporary MultiDAOs to coordinate a temporary initiative (events, projects, or campaigns).
-- Political DAOs - promoting daoversity through structured communication about important decisions made by ecosystem participants.
+### Collaboration DAOs
+related communities working together for a common purpose, like a partnership, friendly competition, or a coalition of DAOs
+### Ephemeral DAOs
+organizations may create temporary MultiDAOs to coordinate a temporary initiative (events, projects, or campaigns)
+### Political DAOs
+promoting daoversity through structured communication about important decisions made by ecosystem participants.
 
 ## Testing: DAOmonstration
 
