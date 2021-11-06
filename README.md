@@ -11,7 +11,7 @@ Let's facilitate community daovelopment and growth by enabling DAOs to coordinat
 
 ## What is this repo?
 
-The following code folders exist as a framework for creating & maintaining MultiDAOs. Currently there are no tools to help with developing the concept, so this repo will be a way for testing the theory and ideas of MultiDAOs.
+The following code folders exist as a framework for creating and maintaining MultiDAOs. Currently there are no tools to help with developing the concept, so this repo will be a way for testing the theory and ideas of MultiDAOs.
 
 This repo also stems from experiments between Croncat and other DAOs, and the topic was part of a talk at NEARCON Alpha. You can checkout the [slides for that presentation here](https://docs.google.com/presentation/d/1QtyyE6VuHWyzwkyl8dAKCWZYMBx-y0viSIJmuen67f4/edit?usp=sharing).
 
