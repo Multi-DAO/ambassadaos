@@ -1,5 +1,5 @@
-# Ambassadaos
-Our interDAOmentional space station connecting Governauts reaching for the stars with Astro!
+# AmbassaDAOs
+Our interdaomentional space station connecting Governauts reaching for the stars with Astro!
 
 ## Connect
 
@@ -7,7 +7,7 @@ Jump in the group on Telegram to get involved: https://t.me/joinchat/QHk_O8liMtU
 
 ## Purpose
 
-Let's facilitate community development and growth by enabling DAOs to coordinate collaboration, resources & experiments in ways that wouldn't be possible with a single DAO. We can bring together a daoverse group of communities, and each would have an equal voice to guide future iterations of DAO interactivity.
+Let's facilitate community daovelopment and growth by enabling DAOs to coordinate collaboration, resources & experiments in ways that wouldn't be possible with a single DAO or multiple independent DAOs. We can bring together a daoverse group of communities, and each would have an equal voice to guide future iterations of DAO interactivity.
 
 ## What is this repo?
 
