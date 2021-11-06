@@ -26,8 +26,8 @@ promoting daoversity through structured communication about important decisions 
 
 ## Testing: DAOmonstration
 
-To test each feature of the MultiDAO, a simple demo with a few member DAOs will be used to try all types of proposals and other interactions before going the main MultiDAO. Consider this DAO as the "staging" environment of multiDAOs.
+To test each feature of the MultiDAO, a simple demo with a few member DAOs will be used to try all types of proposals and other interactions before launching the main MultiDAO. Consider this DAO as the "staging" environment of multiDAOs.
 
-## Main DAO: AmbassaDAOs
+## Main MultiDAO: AmbassaDAOs
 
 TODAO: daoscussion + coordaonation
