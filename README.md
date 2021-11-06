@@ -22,7 +22,7 @@ related communities working together for a common purpose, like a partnership, f
 ### Ephemeral DAOs
 organizations may create temporary MultiDAOs to coordinate a temporary initiative (events, projects, or campaigns)
 ### Political DAOs
-promoting daoversity through structured communication about important decisions made by ecosystem participants.
+promoting daoversity through structured communication about important decisions made by ecosystem participants
 
 ## Testing: DAOmonstration
 
