@@ -1,12 +1,11 @@
-MASTER_ACC=ion.testnet
+MASTER_ACC=cron.testnet
 DAO_ROOT_ACC=sputnikv2.testnet
-DAO_NAME=ambassadaos
+DAO_NAME=multidaomo
 DAO_ACCOUNT=$DAO_NAME.$DAO_ROOT_ACC
 
 export NEAR_ENV=testnet
 
-# COUNCIL='["croncat.'$DAO_ROOT_ACC'", "codame.'$DAO_ROOT_ACC'", "ref-finance.'$DAO_ROOT_ACC'", "marmaj.'$DAO_ROOT_ACC'", "cheddar.'$DAO_ROOT_ACC'", "data.'$DAO_ROOT_ACC'", "shrm.'$DAO_ROOT_ACC'"]'
-COUNCIL='["croncat.'$DAO_ROOT_ACC'", "cheddar.'$DAO_ROOT_ACC'"]'
+COUNCIL='["croncat.'$DAO_ROOT_ACC'", "multi.'$DAO_ROOT_ACC'", "marmaj.'$DAO_ROOT_ACC'"]'
 
 #Args for creating DAO in sputnik-factory2
 ARGS=`echo "{\"config\":  {\"name\": \"$DAO_NAME\", \"purpose\": \"An interdaomentional space station connecting Governauts reaching for the stars with Astro\", \"metadata\":\"\"}, \"policy\": $COUNCIL}" | base64`

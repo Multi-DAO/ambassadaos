@@ -31,3 +31,8 @@ To test each feature of the MultiDAO, a simple demo with a few member DAOs will 
 ## Main MultiDAO: AmbassaDAOs
 
 TODAO: daoscussion + coordaonation
+
+Session Zero Notes:
+- MultiDAO for event planning
+- MultiDAO Guild (REPO): supporting innovation of DAOs
+- Add notes on how to stake DAO funds

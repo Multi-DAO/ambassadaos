@@ -1,4 +1,4 @@
-MASTER_ACC=prod.near
+MASTER_ACC=tjtc.near
 DAO_ROOT_ACC=sputnik-dao.near
 DAO_NAME=multidaomo
 # DAO_NAME=ambassadaos
@@ -15,7 +15,7 @@ COUNCIL='["prod_dev.'$DAO_ROOT_ACC'", "gov.'$DAO_ROOT_ACC'", "marmaj.'$DAO_ROOT_
 # COUNCIL='["croncat.'$DAO_ROOT_ACC'", "dev.'$DAO_ROOT_ACC'", "community.'$DAO_ROOT_ACC'", "cheddar.'$DAO_ROOT_ACC'", "codame.'$DAO_ROOT_ACC'", "ref-finance.'$DAO_ROOT_ACC'", "marmaj.'$DAO_ROOT_ACC'", "openshards.'$DAO_ROOT_ACC'", "collabs.'$DAO_ROOT_ACC'", "auroradao.'$DAO_ROOT_ACC'", "move.'$DAO_ROOT_ACC'", "creatives.'$DAO_ROOT_ACC'", "growth-guild.'$DAO_ROOT_ACC'", "pixeltoken.'$DAO_ROOT_ACC'"]'
 
 #Args for creating DAO in sputnik-factory
-ARGS=`echo "{\"config\":  {\"name\": \"$DAO_NAME\", \"purpose\": \"An interdaomentional space station connecting Governauts reaching for the stars with Astro\", \"metadata\":\"\"}, \"policy\": $COUNCIL}" | base64`
+ARGS=`echo "{\"config\":  {\"name\": \"$DAO_NAME\", \"purpose\": \"MULTI DAO DEMO An interdaomentional space station connecting Governauts reaching for the stars with Astro\", \"metadata\":\"\"}, \"policy\": $COUNCIL}" | base64`
 FIXED_ARGS=`echo $ARGS | tr -d '\r' | tr -d ' '`
 
 # Call sputnik factory for deploying new dao with custom policy
