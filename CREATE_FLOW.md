@@ -13,8 +13,8 @@ You need to be 100% sure your DAO name will not have collisions before deploying
 
 You can name the DAO on line 3 of the following files, and the script will take care of the rest:
 
-* [Mainnet DAO](./dao_deploy_mainnet.sh)
-* [Testnet DAO](./dao_deploy_testnet.sh)
+* [Mainnet DAO](./multi/dao_deploy_mainnet.sh)
+* [Testnet DAO](./multi/dao_deploy_testnet.sh)
 
 You can also customize your DAO description (purpose) on line 18.
 
@@ -37,10 +37,10 @@ Execute the script:
 
 ```bash
 # Mainnet DAO
-./dao_deploy_mainnet.sh
+./multi/dao_deploy_mainnet.sh
 
 # Testnet DAO
-./dao_deploy_testnet.sh
+./multi/dao_deploy_testnet.sh
 ```
 
 If all goes well, you will see the transactions for creating the dao, and a JSON object of the final deployed configuration.

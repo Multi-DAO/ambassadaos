@@ -15,6 +15,15 @@ The following code folders exist as a framework for creating and maintaining Mul
 
 This repo also stems from experiments between Croncat and other DAOs, and the topic was part of a talk at NEARCON Alpha. You can checkout the [slides for that presentation here](https://docs.google.com/presentation/d/1QtyyE6VuHWyzwkyl8dAKCWZYMBx-y0viSIJmuen67f4/edit?usp=sharing).
 
+## DAO Proposals
+
+There are two types of proposal templates available, for both single and multi DAOs:
+
+* [Single DAO](/single)
+* [Multi DAO](/multi)
+
+Each folder has context to help you craft proposals for whatever you need.
+
 ## MultiDAO Use Cases
 
 ### Collaboration DAOs
